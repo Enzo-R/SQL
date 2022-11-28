@@ -1,3 +1,5 @@
+--email da tbl_alunos para UNIQUE
+--TRUNCATE TABLE para apagar os dados da tabela
 
 USE teste
 ALTER TABLE table_Emprestimos
