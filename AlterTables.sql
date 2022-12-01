@@ -13,3 +13,6 @@ USE teste
 ALTER TABLE table_Alunos
 ADD CONSTRAINT AK_Email
 UNIQUE (Email)
+
+UPDATE table_Emprestimos
+set Id_livro = 2
